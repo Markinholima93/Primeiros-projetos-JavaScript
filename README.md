@@ -16,6 +16,19 @@ A página é um projeto público da Youtuber Rafaella Ballerini que faz parte de
 
 <br>
 
+## Lista de Tarefas
+
+A página é um projeto público da Youtuber Rafaella Ballerini que faz parte de uma série de videoaulas para iniciantes em JavaScript. A lista de afazeres conta com uma interface simples, bem explicativa e que permite interação com input e li.
+
+### Tecnologias utilizadas
+- HTML 
+- CSS
+- JavaScript
+
+
+### Material de referência
+- <a href="https://www.youtube.com/watch?v=kwOPAQJDGyI&list=PLhkO7OMKgT_rRK3qvJsZAy3jrkupOxD_h&index=5">CURSO DE JAVASCRIPT DO ZERO | parte 2 - pegando valores de entrada do usuário e escrevendo na tela</a>
+
 ## Mini Slideshow
 
 O slideshow é uma adaptação de um projeto público do youtuber Gustavo Campelo. Nele, o produtor de conteúdo ensina a construir uma apresentação funcional com três slides usando HTML e CSS, mas principalmente demonstrando a lógica e as ferramentas básicas de JavaScript por trás da navegação entre os slides.
